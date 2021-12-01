@@ -1,0 +1,7 @@
+﻿  selling_blood.c
+C:\Users\user\source\project\The blood seller's uprising\The blood seller's uprising\selling_blood.c(204,11): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xeb'이(가) 있습니다.
+C:\Users\user\source\project\The blood seller's uprising\The blood seller's uprising\selling_blood.c(784,22): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\project\The blood seller's uprising\The blood seller's uprising\selling_blood.c(788,22): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\project\The blood seller's uprising\The blood seller's uprising\selling_blood.c(792,22): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\project\The blood seller's uprising\The blood seller's uprising\selling_blood.c(852,20): warning C4047: '=': 'int'의 간접 참조 수준이 'int (__cdecl *)(void)'과(와) 다릅니다.
+  The blood seller's uprising.vcxproj -> C:\Users\user\source\project\The blood seller's uprising\Debug\The blood seller's uprising.exe
